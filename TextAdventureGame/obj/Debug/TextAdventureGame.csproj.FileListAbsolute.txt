@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\TextAdventureGame\TextAdventureGame\bin\Debug\TextAdventureGame.exe.config
+C:\Users\User\source\repos\TextAdventureGame\TextAdventureGame\bin\Debug\TextAdventureGame.exe
+C:\Users\User\source\repos\TextAdventureGame\TextAdventureGame\bin\Debug\TextAdventureGame.pdb
+C:\Users\User\source\repos\TextAdventureGame\TextAdventureGame\obj\Debug\TextAdventureGame.csprojAssemblyReference.cache
+C:\Users\User\source\repos\TextAdventureGame\TextAdventureGame\obj\Debug\TextAdventureGame.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TextAdventureGame\TextAdventureGame\obj\Debug\TextAdventureGame.exe
+C:\Users\User\source\repos\TextAdventureGame\TextAdventureGame\obj\Debug\TextAdventureGame.pdb
